@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h2 align="left" id="bhavdip111-tech">Tech & Stats</h2>
 
 > Tools, languages, and other things that I like to work with.
-
 <table>
   <tr>
     <td align="center" width="134">
@@ -97,3 +96,11 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bhavdip111&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavdip111&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bhavdip111&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <img src ="https://github-profile-trophy.vercel.app/?username=bhavdip111&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+</p>
