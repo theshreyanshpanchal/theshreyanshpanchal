@@ -25,5 +25,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/584/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="" height="60" width="60" /></a>
+  <a href="#" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/d6/6e/ced66ecfc53814d71f8774789b55cc76.png" alt="" height="40" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" alt="" height="40" width="40" /></a>
+
 </p>
