@@ -21,75 +21,69 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/laravel.png" width="48" height="48" alt="Laravel" />
+        <img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/node.svg" width="48" height="48" alt="NodeJs" />
+        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="48" height="48" alt="NodeJs" />
       </a>
       <br>NodeJs
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/react.png" width="48" height="48" alt="ReactJs" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="ReactJs" />
       </a>
       <br>ReactJs
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/typescript.png" width="48" height="48" alt="Typescript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" width="48" height="48" alt="VueJs" />
       </a>
-      <br>TypeScript
+      <br>VueJs
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/mysql.svg" width="48" height="48" alt="MySql" />
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-1-logo-png-transparent.png" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/postgresql.png" width="48" height="48" alt="Postgresql" />
+        <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" width="48" height="48" alt="MongoSB" />
       </a>
-      <br>Postgresql
+      <br>MongoSB
     </td>
   </tr>
   <tr>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/tailwind.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/saas-development.png" width="48" height="48" alt="SaaS" />
-      </a>
-      <br>SaaS
-    </td>
-    <td align="center" width="134">
-      <a href="#theshreyanshpanchal-tech">
-        <img src="./images/api.png" width="48" height="48" alt="API" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="48" height="48" alt="API" />
       </a>
       <br>API
     </td>
    <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/docker.png" width="48" height="48" alt="Docker" />
+        <img src="https://cdn-ilaeled.nitrocdn.com/xjlTIzzcFlDZkNcCPnCAGIxXrnjmbkuM/assets/images/optimized/wp-content/uploads/2024/01/bec398d83c44b64cd8f6a6ed56f1c4c3.icon-docker-square.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/github.png" width="48" height="48" alt="GitHub" />
+        <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="./images/aws.png" width="48" height="48" alt="AWS" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
