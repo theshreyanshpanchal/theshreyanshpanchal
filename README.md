@@ -1,5 +1,5 @@
 <!--
-**Shreyansh1426/Shreyansh1426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**theshreyanshpanchal/theshreyanshpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -91,11 +91,11 @@ Here are some ideas to get you started:
 </table>
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Shreyansh1426&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh1426&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Shreyansh1426&theme=tokyonight&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=theshreyanshpanchal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=theshreyanshpanchal&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=theshreyanshpanchal&theme=tokyonight&hide_border=true&background=FFFFFF00">
   <br>
-  <img src ="https://github-profile-trophy.vercel.app/?username=Shreyansh1426&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
+  <img src ="https://github-profile-trophy.vercel.app/?username=theshreyanshpanchal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true">
 </p>
 
 <h3 align="center">Connect with me</h3>
