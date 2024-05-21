@@ -27,15 +27,15 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="48" height="48" alt="NodeJs" />
+        <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" width="48" height="48" alt="NestJS" />
       </a>
-      <br>NodeJs
+      <br>NestJS
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="ReactJs" />
+        <img src="https://avatars.githubusercontent.com/u/51960834?s=280&v=4" width="48" height="48" alt="Livewire" />
       </a>
-      <br>ReactJs
+      <br>Livewire
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
@@ -45,7 +45,27 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-1-logo-png-transparent.png" width="48" height="48" alt="MySql" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="48" height="48" alt="ReactJs" />
+      </a>
+      <br>ReactJs
+    </td>
+    <td align="center" width="134">
+      <a href="#theshreyanshpanchal-tech">
+        <img src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4" width="48" height="48" alt="InertiaJS" />
+      </a>
+      <br>InertiaJS
+    </td>
+    <td align="center" width="134">
+      <a href="#theshreyanshpanchal-tech">
+        <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" width="48" height="48" alt="AlpineJS" />
+      </a>
+      <br>AlpineJS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="134">
+      <a href="#theshreyanshpanchal-tech">
+        <img src="https://pngimg.com/uploads/mysql/mysql_PNG19.png" width="48" height="48" alt="MySql" />
       </a>
       <br>MySql
     </td>
@@ -55,13 +75,11 @@ Here are some ideas to get you started:
       </a>
       <br>MongoSB
     </td>
-  </tr>
-  <tr>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="https://shadowblood.gallerycdn.vsassets.io/extensions/shadowblood/tailwind-moon/3.0.2/1673948732518/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>Tailwind CSS
+      <br>AWS
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
@@ -83,9 +101,9 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="134">
       <a href="#theshreyanshpanchal-tech">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" width="48" height="48" alt="AWS" />
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" width="48" height="48" alt="Bitbucket" />
       </a>
-      <br>AWS
+      <br>Bitbucket
     </td>
   </tr>
 </table>
