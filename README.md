@@ -108,6 +108,40 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<div style="max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <h2>Some fo the great projects on which I worked on</h2>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+        <img src="https://assets.akaunting.com/site/img/logo/akaunting-logo-horizontal.svg" alt="Akaunting" style="max-width: 100px; max-height: 100px;" width="200" height="140">
+      </td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+        <img src="https://www.jakelcapital.com/wp-content/uploads/2023/03/Jakel-Trading-Logo.png" alt="Jakel" style="max-width: 100px; max-height: 100px;" width="200" height="140">
+      </td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #ddd;">
+        <img src="https://www.posable.com.my/wp-content/uploads/2021/12/posable-logo.png" alt="POSable" style="max-width: 100px; max-height: 100px;" width="200" height="50">
+      </td>
+      <td style="text-align: center; border: 1px solid #ddd;">
+        <img src="https://d3365vf2odvlwg.cloudfront.net/images/logo.png" alt="Marineparts" style="max-width: 100px; max-height: 150px;" width="230" height="50">
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center; border: 1px solid #ddd;">
+        <img src="https://customer.oishi.ai/wp-content/uploads/2022/04/Logo-Customer.svg" alt="Oishi" style="max-width: 90px; max-height: 80px;" width="200" height="140">
+      </td>
+      <td style="text-align: center; border: 1px solid #ddd;">
+        <img src="https://assets.circle.so/y1dur23ohd4myuxg84lts0t0unbe" alt="Marineparts" style="max-width: 100px; max-height: 150px;" width="200" height="50">
+      </td>
+      <td style="text-align: center; border: 1px solid #ddd;">
+        <img src="https://dev.admin.guestbrief.com/images/logo.png" alt="Guestbrief" style="max-width: 100px; max-height: 100px;" width="200" height="50">
+      </td>
+      <td style="text-align: center; border: 1px solid #ddd;">
+        <img src="https://dev.kpimysteryshopping.com.au/logos/kpi_logo.png" alt="Kpimysteryshopping" style="max-width: 100px; max-height: 100px;" width="200" height="70">
+      </td>
+    </tr>
+  </table>
+</div>
+
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=theshreyanshpanchal&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=theshreyanshpanchal&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
